@@ -1,3 +1,8 @@
+PATH
+  remote: /Users/sergejsobolev/ruby_gems/ruby_custom_validation
+  specs:
+    ruby_custom_validation (0.1.0)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -153,6 +158,7 @@ DEPENDENCIES
   pg (~> 1.1)
   puma (~> 5.0)
   rails (~> 6.1.1)
+  ruby_custom_validation!
   spring
   tzinfo-data
 
